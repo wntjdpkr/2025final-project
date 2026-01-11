@@ -1,8 +1,5 @@
-# BossCombat
-1차 전투를 기반으로 한 2차 전투에서 맞춤형 어려움을 제공하는 프로젝트입니다.
 시연 영상입니다.
 https://youtu.be/jXrVMk5Fqaw
-
 # Dodged (닷지드)
 
 Unity 기반 3D 액션 게임 - 적응형 AI 보스 전투 시스템
